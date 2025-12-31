@@ -11,14 +11,10 @@
             "id": "5a66935672128aa1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worlds/Exandria/History.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "History"
+              "title": "New tab"
             }
           }
         ]
@@ -185,13 +181,21 @@
   },
   "active": "9acf1fb9b3724c31",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Worlds/Exandria/History/The Calamity",
+    "Worlds/Exandria/History/Arcanum Age",
+    "Worlds/Exandria/History",
     "Worlds/Exandria/History.md",
+    "Worlds/Exandria/Continents/Wildmount/History.md",
+    "Worlds/Exandria/Continents/Wildmount/Areas/Foren",
+    "Worlds/Exandria/Continents/Wildmount/Areas/Greying Wildlands",
+    "Worlds/Exandria/Continents/Wildmount/Areas",
+    "Worlds/Exandria/Continents/Wildmount/Societies",
+    "Worlds/Exandria/Continents/Wildmount/Factions-Empiers",
+    "Worlds/Exandria/Continents/Wildmount",
+    "Untitled.base",
     "Worlds/Exandria/Continents/Untitled.md",
     "Welcome.md",
     "Worlds/Exandria/Continents",
-    "Worlds/Exandria",
-    "Worlds/Exandria.md",
-    "Worlds"
+    "Worlds/Exandria.md"
   ]
 }

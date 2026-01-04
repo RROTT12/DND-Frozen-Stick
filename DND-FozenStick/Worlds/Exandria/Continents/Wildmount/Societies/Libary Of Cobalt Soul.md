@@ -11,12 +11,12 @@ Ein religiöser Orden unter der Führung der Göttin **Ioun** (Knowing Mentor), 
     
 - **Expositoren (Expositors):** Die Elite-Agenten. Meister der Infiltration und Beschaffung. Sie sind darauf trainiert, Korruption aufzudecken und Wahrheiten ans Licht zu bringen, die Mächtige lieber begraben würden.
 
-|**Name**|**Rolle**|**Wesen & Status (1 Jahr vor dem Krieg)**|
-|---|---|---|
-|**Yudala Fon**|High Curator (Rexxentrum)|**Rechtschaffen Gut.** Ein(e) weise(r) Halb-Elf(in), der/die seit zwei Jahrzehnten die Versuche des Reiches abwehrt, die Bibliothek zu kontrollieren.|
-|**Loman Turray**|High Curator (Zadash)|**Rechtschaffen Neutral.** Er regiert seit 40 Jahren in Zadash, gibt aber unter dem Druck des Kaisers langsam nach und wird zum Handlanger der Krone.|
-|**Sia Kresh**|Expositor|**Neutral.** Eine Halbling-Frau und Yudala Fons "Rechte Hand". Sie jagt Infiltratoren innerhalb des Ordens mit brutaler Effizienz.|
-|**Kon Bruda**|Der Verräter|**Rechtschaffen Neutral.** Ein ehemaliger Mönch des Ordens, der jetzt als **Theolocrat** für den König arbeitet und versucht, die Bibliothek von innen heraus zu korrumpieren.|
+| **Name**         | **Rolle**                 | **Wesen & Status (1 Jahr vor dem Krieg)**                                                                                                                                      |
+| ---------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Yudala Fon**   | High Curator (Rexxentrum) | **Rechtschaffen Gut.** Ein(e) weise(r) Halb-Elf(in), der/die seit zwei Jahrzehnten die Versuche des Reiches abwehrt, die Bibliothek zu kontrollieren.                          |
+| **Loman Turray** | High Curator (Zadash)     | **Rechtschaffen Neutral.** Er regiert seit 40 Jahren in Zadash, gibt aber unter dem Druck des Kaisers langsam nach und wird zum Handlanger der Krone.                          |
+| **Sia Kresh**    | Expositor                 | **Neutral.** Eine Halbling-Frau und Yudala Fons "Rechte Hand". Sie jagt Infiltratoren innerhalb des Ordens mit brutaler Effizienz.                                             |
+| **Kon Bruda**    | Der Verräter              | **Rechtschaffen Neutral.** Ein ehemaliger Mönch des Ordens, der jetzt als **Theolocrat** für den König arbeitet und versucht, die Bibliothek von innen heraus zu korrumpieren. |
 
 ## Die Politische Lage (834 PD – Ein Jahr vor dem Krieg)
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player/Ekmek-Potates/Patates (Lucas).md",
+                "file": "Red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Patates (Lucas)"
+              "title": "Red"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player/Ekmek-Potates/Patates (Lucas).md",
+                "file": "Red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Patates (Lucas)"
+              "title": "Backlinks for Red"
             }
           },
           {
@@ -200,10 +200,13 @@
   },
   "active": "a32632d971e6f88c",
   "lastOpenFiles": [
-    "Player/Ekmek-Potates/Goliath (Niklas).md",
-    "Player/Ekmek-Potates/Patates (Lucas).md",
-    "Player/Ekmek-Potates/Ekmek (Wyron).md",
     "session1.drawio.svg",
+    "Player/Ekmek-Potates/Ekmek (Wyron).md",
+    "Player/Ekmek-Potates/Patates (Lucas).md",
+    "Player/Ekmek-Potates/Auftrag (Frozen Stick).md",
+    "Player/Ekmek-Potates/Backstory-Nebelfurt.md",
+    "Player/Ekmek-Potates/Bumm (Niklas).md",
+    "Worlds/Exandria/Continents/Wildmount/Societies/Iron Authority.md",
     "ZSessiones/Session 1.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -225,12 +228,8 @@
     "Dwendailan Empiere.md",
     "Worlds/Exandria/Continents/Wildmount/Areas/Eastern Wynandir/Races.md",
     "Worlds/Exandria/Continents/Wildmount/Areas/West Wynandir/Races.md",
-    "Worlds/Exandria/Continents/Wildmount/Areas/Greying Wildlands/Races.md",
-    "Worlds/Exandria/Continents/Wildmount/Areas/Menagerie Coast/Races.md",
     "ZSessiones/Untitled",
-    "Player/Ekmek-Potates/Auftrag (Frozen Stick).md",
     "ZSessiones",
-    "Npcs/Cobalt Soul/Expositor Sisman Kurtarici.md",
     "Npcs/Cobalt Soul",
     "Npcs",
     "Player/Ekmek-Potates",

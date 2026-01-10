@@ -10,7 +10,7 @@ Und dass Bummen nicht sein Herr war.
 
 In derselben Nacht floh er. Mit der Blüte fest umklammert und dem Namen, den man ihm gegeben hatte, als Erinnerung daran, was er nie wieder sein wollte. Bumm von Bummen der Dritte war geboren aus Grausamkeit – doch was er daraus machte, lag nun allein bei ihm.
 
-
+## Rettung
 
 **Die Begegnung: Der Berg und der Entdecker**
 
@@ -47,3 +47,22 @@ Urgon kam zurück, wurde krank und erst vor kurzem (vor ein paar Tagen) vollstä
 - Er hat miterlebt, wie sein Retter über Wochen hinweg schwächer wurde.
     
 - Das Gefühl der Hilflosigkeit, das er aus dem Ork-Lager kannte, kam zurück – aber diesmal will er kämpfen, um jemanden zu **retten**, nicht um jemanden zu **töten**.
+
+
+## Player Info
+### **Wissens-Dossier für Bumm**
+
+**Deine Wurzeln: Die Iron Authority** Du stammst aus den staubigen, eisenharten Ebenen von **Xhorhas**, einem Land, das unter dem eisernen Griff der **Iron Authority** erzittert. In diesem militaristischen Regime der Hobgoblins gibt es kein „Ich“, nur die Pflicht gegenüber der Hierarchie. Du warst Eigentum des Orc-Kriegshäuptlings Bummen, der dich nach dem Geräusch benannte, das ein Körper macht, wenn er besiegt zu Boden geht. Wie du es geschafft hast, die Ketten der Authority zu brechen und die hunderte Meilen nach Norden zu fliehen, ist dein Geheimnis – ein Geheimnis, das tief in deinen Narben und deinen Erinnerungen vergraben liegt.
+
+**Der Tag deiner Rettung (18. Fessuran 835 PD)** Deine Flucht endete beinahe im ewigen Eis. Als du die Küste nahe **Palebank Village** erreichtest, war dein Körper am Ende. Die ungewohnte, beißende Kälte des Nordens hatte deine Lungen verbrannt und deine Glieder schwer wie Blei gemacht. Du bist im tiefen Schnee zusammengebrochen, bereit zu sterben.
+
+Doch statt der Dunkelheit kam **Urgon Wenth**. Der zwergische Explorer fand dich halb eingeschneit. Anstatt dich zu fürchten oder dich zu vertreiben, sah er in dir nur jemanden, der Hilfe brauchte. Mit einer Zähigkeit, die man seinem kleinen Körper nicht zugetraut hätte, zerrte er dich in eine geschützte Felsspalte, hüllte dich in seine Pelze und rettete dich vor dem Erfrieren. Er brachte dich in sein Haus in Palebank und pflegte dich gesund. Seit diesem Tag bist du an seiner Seite.
+
+**Dein Leben in Palebank Village** In den letzten vier Monaten hast du versucht, dich in dieser fremden, kalten Welt zurechtzufinden:
+
+- **Die Gemeinschaft:** Du bist nun seit etwa 120 Tagen hier. Du hast dir Respekt verdient, indem du deine Kraft für das Dorf eingesetzt hast – beim Entladen der Schiffe oder wenn Karren im Schlamm stecken blieben. Die Leute wie der Village Leader **Elro Aldataur** oder der Wirt **Arl Bortock** vom **Jolly Dwarf** nicken dir inzwischen respektvoll zu. Du bist für sie „der große Kerl, der zu Urgon gehört“.
+    
+- **Das Misstrauen:** Trotz der Ruhe in Palebank bleibt dein Instinkt wachsam. Du weißt, dass die **Iron Authority** „entlaufenes Eigentum“ nicht einfach vergisst. Jedes Mal, wenn ein neues Schiff anlegt, suchst du in der Menge nach Gesichtern mit dem kalten, disziplinierten Blick deiner ehemaligen Peiniger.
+    
+
+**Die aktuelle Lage** Urgon Wenth, der Mann, der dich als Erster wie ein Lebewesen und nicht wie ein Werkzeug behandelt hat, ist in großer Gefahr. Er leidet unter einem seltsamen, erschreckenden Leiden, das ihn langsam verändert und seine Lebenskraft raubt. Du hast miterlebt, wie er Tag für Tag schwächer wurde, und nun bist du bereit, alles zu tun, um den Mann zu retten, der dir deine Freiheit geschenkt hat. Was auch immer ihn befallen hat – du wirst einen Weg finden, es aufzuhalten.

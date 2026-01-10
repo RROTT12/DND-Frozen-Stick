@@ -1,4 +1,3 @@
-von [[Expositor Sisman Kurtarici]]
 
 **An meine Schüler,**
 

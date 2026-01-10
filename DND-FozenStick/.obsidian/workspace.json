@@ -11,15 +11,32 @@
             "id": "5a66935672128aa1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "session1.drawio.svg"
+                "file": "ZSessiones/Session 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "session1.drawio"
+              "icon": "lucide-file",
+              "title": "Session 1"
+            }
+          },
+          {
+            "id": "a32632d971e6f88c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player/Ekmek-Potates/Patates (Lucas).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Patates (Lucas)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worlds/Exandria/History.md",
+                "file": "Player/Ekmek-Potates/Patates (Lucas).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for History"
+              "title": "Backlinks for Patates (Lucas)"
             }
           },
           {
@@ -167,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,15 +194,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "diagram-zoom-drag:Picker mode": false
     }
   },
-  "active": "5a66935672128aa1",
+  "active": "a32632d971e6f88c",
   "lastOpenFiles": [
-    "ZSessiones/Session 1.md",
+    "Player/Ekmek-Potates/Goliath (Niklas).md",
+    "Player/Ekmek-Potates/Patates (Lucas).md",
+    "Player/Ekmek-Potates/Ekmek (Wyron).md",
     "session1.drawio.svg",
-    "Red.md",
+    "ZSessiones/Session 1.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "ZSessiones/Session 0.md",
+    "Red.md",
     "Worlds/Exandria/Continents/Wildmount/Societies/Eyes of the Bright Queen.md",
     "Worlds/Exandria/Continents/Wildmount/Factions/Children of Malice.md",
     "Worlds/Exandria/Pantheon Of Exandria.md",
@@ -209,8 +231,6 @@
     "Player/Ekmek-Potates/Auftrag (Frozen Stick).md",
     "ZSessiones",
     "Npcs/Cobalt Soul/Expositor Sisman Kurtarici.md",
-    "Worlds/Exandria/Continents/Wildmount/Societies/Libary Of Cobalt Soul.md",
-    "Player/Ekmek-Potates/Patates.md",
     "Npcs/Cobalt Soul",
     "Npcs",
     "Player/Ekmek-Potates",

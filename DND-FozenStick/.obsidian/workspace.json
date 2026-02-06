@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "History DM"
             }
+          },
+          {
+            "id": "8188da1cde75b9ad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worlds/Exandria/Continents/Wildmount/History DM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for History DM"
+              "title": "Backlinks"
             }
           },
           {
@@ -239,8 +250,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd6473365c41fdf4",
+  "active": "8188da1cde75b9ad",
   "lastOpenFiles": [
+    "improved-initiative.json",
+    "improved-initiative (1).json",
     "Maps/ruins_ice.webp",
     "Maps/Map_Ice_Clives.webp",
     "Maps/BluBerrey-2MT Glacier Valley Collaboration (1).zip",
@@ -272,7 +285,6 @@
     "Worlds/Exandria/Pantheon Of Exandria.md",
     "Worlds/Exandria/Continents/Wildmount/Areas/Menagerie Coast/Menagerie-Küste.md",
     "Worlds/Exandria/Continents/Wildmount/Empiers/Clovis Concord.md",
-    "improved-initiative.json",
     "Red.md",
     "session1.drawio.svg",
     "Untitled.canvas",

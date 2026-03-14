@@ -1,0 +1,5 @@
+_... es ist ein fundamentaler Irrtum der niederen Völker – und ein noch größerer der Götter selbst –, die biologische Hülle als das finale Gefäß des Bewusstseins zu betrachten. Das Fleisch ist ein fehlerhaftes Design: Es verrottet, es blutet, es ermüdet._
+
+_Unsere Experimente in der Sektion VII haben bewiesen, dass die Seele keine Bindung an das Protoplasma benötigt, sofern die metallische Matrix mit der korrekten dunamantischen Frequenz schwingt. Wenn der Stahl das Nervenende berührt und die Runen sich mit dem Schmerz des Subjekts speisen, entsteht eine Synergie, die weit über das hinausgeht, was die sogenannten ‚Schöpfer‘ imstande waren zu formen._
+
+_Warum sollten wir zu Wesen beten, deren eigene Anatomie so ineffizient ist? Wir haben die Götter vermessen. Wir haben ihre Lichtstrahlen in Prismen gefangen. Wir haben festgestellt: Sie sind keine Herren, sie sind lediglich Batterien aus heiligem Fleisch, die darauf warten, von einem präziseren Verstand geerntet zu werden. Die Transzendenz beginnt nicht mit dem Gebet, sondern mit dem ersten Schnitt des Skalpells in die göttliche Ordnung.._

@@ -7,3 +7,10 @@ Goal Should be smth in the directive of Guge against a good or some shite and tr
 
 
 ggf leads the armies or uses them as an tool to achive his goals
+
+
+- Zwischen Boss
+	- Beast Tamer (Ranger or smth)
+	- With The Rasohaz
+	- If they Capture the Tamer and question
+		- after some questions Gets Killd by seal/hex

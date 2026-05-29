@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Empiers/Diarchie von Uthodurn.md",
+                "file": "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Empiers/Clovis Concord.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diarchie von Uthodurn"
+              "title": "Clovis Concord"
+            }
+          },
+          {
+            "id": "c58363dcbccb05c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DND-FozenStick/Player/Patates (Lucas).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Patates (Lucas)"
+            }
+          },
+          {
+            "id": "c0ef150f0507fcd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infos Torben(Gimbal).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infos Torben(Gimbal)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,25 +212,75 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "cdd64979b26206b5",
+  "floating": {
+    "id": "c2305ba6dbe7f27f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "36cfe924b93a8749",
+        "type": "window",
+        "children": [
+          {
+            "id": "a57d77c6e062730d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2220020391584f02",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Clovis Concord Infos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Clovis Concord Infos"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2048,
+        "y": 0,
+        "width": 241,
+        "height": 237,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2220020391584f02",
   "lastOpenFiles": [
-    "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Empiers/Clovis Concord.md",
-    "DND-FozenStick/Plot Idee.md",
-    "DND-FozenStick/Npcs/BBEG.md",
-    "DND-FozenStick/Welcome.md",
-    "DND-FozenStick/Red.md",
-    "DND-FozenStick/Npcs/Cobalt Soul/Expositor Sisman Kurtarici.md",
-    "DND-FozenStick/Worlds/Exandria/Pantheon Of Exandria.md",
-    "DND-FozenStick/ZSessiones/Session 0.md",
-    "DND-FozenStick/ZSessiones/Session 1.md",
-    "improved-initiativeS4.json",
-    "session4.drawio",
-    "DND-FozenStick/Artefacte/Annalen der Transzendenz Die Geometrie des Fleischlosen Willens.md",
-    "DND-FozenStick/Artefacte/The Shard of Schattengrad.md",
-    "DND-FozenStick/Player/Bumm (Niklas).md",
-    "DND-FozenStick/Player/Ekmek-Potates/Backstory-Nebelfurt.md",
-    "DND-FozenStick/Player/Ekmek (Wyron).md",
+    "Infos Torben(Gimbal).md",
     "DND-FozenStick/Player/Patates (Lucas).md",
-    "DND-FozenStick/Player/Ekmek-Potates/Auftrag (Frozen Stick).md"
+    "DND-FozenStick/Player/Ekmek (Wyron).md",
+    "DND-FozenStick/Player/Bumm (Niklas).md",
+    "DND-FozenStick/Npcs/Cobalt Soul/Expositor Sisman Kurtarici.md",
+    "2026-05-27.md",
+    "DND-FozenStick/Artefacte/The Shard of Schattengrad.md",
+    "DND-FozenStick/Plot Idee.md",
+    "DND-FozenStick/Player/Ekmek-Potates/Auftrag (Frozen Stick).md",
+    "DND-FozenStick/Player/Ekmek-Potates/Backstory-Nebelfurt.md",
+    "DND-FozenStick/Npcs/BBEG.md",
+    "Session5.drawio",
+    "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Empiers/Clovis Concod SubItems.md",
+    "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Empiers/Clovis Concord.md",
+    "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Areas/Menagerie Coast/Menagerie-Küste.md",
+    "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Societies/Claret Orders.md",
+    "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Empiers/Dwendailan Empiere.md",
+    "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Empiers/Diarchie von Uthodurn.md",
+    "DND-FozenStick/ZSessiones/Session 0.md",
+    "Clovis Concord Infos.md",
+    "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Empiers/Kryn Dynasty.md",
+    "DND-FozenStick/Worlds/Exandria/History/The Calamity/The Post-Divergence (Heute).md",
+    "DND-FozenStick/Worlds/Exandria/History/Arcanum Age/The Arcanum Age.md",
+    "DND-FozenStick/Worlds/Exandria/History/The Founding/The Founding.md",
+    "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Societies/The Righteous Brand.md",
+    "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Societies/Libary Of Cobalt Soul.md",
+    "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Factions/Cerberus Assembly.md",
+    "improved-initiativeS4.json",
+    "session4.drawio"
   ]
 }

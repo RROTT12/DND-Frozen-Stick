@@ -98,20 +98,20 @@ _„Gesetzlos, eisig und voller Geheimnisse.“_ Dieses Gebiet im hohen Norden g
 
 #### Götter
 
-|**Gott / Titel**|**Domänen (Vorschläge)**|**Status im Imperium**|**Fokus / Aspekt**|
-|---|---|---|---|
-|**Bahamut** (Der Platin-Drache)|Life, War, Order|**Zugelassen**|Gerechtigkeit, Schutz, Ehre.|
-|**Moradin** (Der Alles-Vater)|Forge, Knowledge|**Zugelassen**|Handwerk, Familie, Zwergentradition.|
-|**Erathis** (Die Gesetzgeberin)|Knowledge, Order|**Zugelassen**|Zivilisation, Gesetze, Städtebau.|
-|**Pelor** (Der Sonnenvater)|Life, Light, Nature|**Zugelassen**|Sonne, Heilung, Landwirtschaft.|
-|**Raven Queen** (Matron of Death)|Death, Grave, Twilight|**Zugelassen**|Schicksal, Winter, der Moment des Todes.|
-|**Ioun** (Die Wissenswahrerin)|Knowledge, Arcana|**Geduldet** (via Kobaltseele)|Wissen, Lehre, Wahrheit.|
-|**Avandra** (Die Wandlerin)|Trickery, Nature|_Verboten_ (Heimlich an der Küste)|Freiheit, Reisen, Glück, Wandel.|
-|**Kord** (Der Sturmherr)|Tempest, War|_Verboten_ (Außer auf Schlachtfeldern)|Stärke, Mut, Donner und Sturm.|
-|**Sarenrae** (Die Erlöserin)|Life, Light|_Verboten_|Wiedergutmachung, Mitgefühl, Sonne.|
-|**Der Luxon** (Das Licht)|Light, Knowledge, Graviturgy|_Illegal_ (Kryn-Dynastie)|Wiedergeburt, Schicksal, Potenzial.|
-|**Bane** (Der Tyrann)|War, Order|**Verräter-Gott**|Tyrannei, Eroberung, blinder Gehorsam.|
-|**Lolth** (Die Spinnenkönigin)|Trickery, War|**Verräter-Gott**|Täuschung, Grausamkeit, Spinnen.|
+| **Gott / Titel**                  | **Domänen (Vorschläge)**     | **Status im Imperium**                 | **Fokus / Aspekt**                       |
+| --------------------------------- | ---------------------------- | -------------------------------------- | ---------------------------------------- |
+| **Bahamut** (Der Platin-Drache)   | Life, War, Order             | **Zugelassen**                         | Gerechtigkeit, Schutz, Ehre.             |
+| **Moradin** (Der Alles-Vater)     | Forge, Knowledge             | **Zugelassen**                         | Handwerk, Familie, Zwergentradition.     |
+| **Erathis** (Die Gesetzgeberin)   | Knowledge, Order             | **Zugelassen**                         | Zivilisation, Gesetze, Städtebau.        |
+| **Pelor** (Der Sonnenvater)       | Life, Light, Nature          | **Zugelassen**                         | Sonne, Heilung, Landwirtschaft.          |
+| **Raven Queen** (Matron of Death) | Death, Grave, Twilight       | **Zugelassen**                         | Schicksal, Winter, der Moment des Todes. |
+| **Ioun** (Die Wissenswahrerin)    | Knowledge, Arcana            | **Geduldet** (via Kobaltseele)         | Wissen, Lehre, Wahrheit.                 |
+| **Avandra** (Die Wandlerin)       | Trickery, Nature             | _Verboten_ (Heimlich an der Küste)     | Freiheit, Reisen, Glück, Wandel.         |
+| **Kord** (Der Sturmherr)          | Tempest, War                 | _Verboten_ (Außer auf Schlachtfeldern) | Stärke, Mut, Donner und Sturm.           |
+| **Sarenrae** (Die Erlöserin)      | Life, Light                  | _Verboten_                             | Wiedergutmachung, Mitgefühl, Sonne.      |
+| **Der Luxon** (Das Licht)         | Light, Knowledge, Graviturgy | _Illegal_ (Kryn-Dynastie)              | Wiedergeburt, Schicksal, Potenzial.      |
+| **Bane** (Der Tyrann)             | War, Order                   | **Verräter-Gott**                      | Tyrannei, Eroberung, blinder Gehorsam.   |
+| **Lolth** (Die Spinnenkönigin)    | Trickery, War                | **Verräter-Gott**                      | Täuschung, Grausamkeit, Spinnen.         |
 
 ## House Rules
 
@@ -123,7 +123,7 @@ _„Gesetzlos, eisig und voller Geheimnisse.“_ Dieses Gebiet im hohen Norden g
 		 - on nat 1 | 1 Rerolle
 	 - level By Milestone
 - alignment
-	   - idk pls no Chaotic Evil
+	   - ipls ndk o Chaotic Evil
 - race/class restrictions
 	- Stick to The Core Rules and 2024 
 - encumbrance
@@ -136,3 +136,4 @@ _„Gesetzlos, eisig und voller Geheimnisse.“_ Dieses Gebiet im hohen Norden g
      - form the rollbook
 - health regeneration
 	- on LongRest all Hit Die
+- Turn swap!!

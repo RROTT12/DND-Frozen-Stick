@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infos Torben(Gimbal).md",
+                "file": "DND-FozenStick/Artefacte/Crystalline Peacebloom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infos Torben(Gimbal)"
+              "title": "Crystalline Peacebloom"
             }
           }
         ],
@@ -245,7 +245,7 @@
         "x": 2048,
         "y": 0,
         "width": 241,
-        "height": 237,
+        "height": 191,
         "maximize": false,
         "zoom": 0
       }
@@ -253,16 +253,19 @@
   },
   "active": "c0ef150f0507fcd3",
   "lastOpenFiles": [
+    "DND-FozenStick/Maps/SpliterkuppelnLabor.temporary",
+    "DND-FozenStick/Artefacte/The Shard of Schattengrad.md",
+    "DND-FozenStick/Artefacte/Annalen der Transzendenz Die Geometrie des Fleischlosen Willens.md",
+    "DND-FozenStick/Artefacte/Crystalline Peacebloom.md",
+    "Clovis Concord Infos.md",
+    "Infos Torben(Gimbal).md",
     "improved-initiativeSession5.json",
     "DND-FozenStick/ZSessiones/Session 1.md",
-    "Infos Torben(Gimbal).md",
-    "Clovis Concord Infos.md",
     "DND-FozenStick/Player/Patates (Lucas).md",
     "DND-FozenStick/Player/Ekmek (Wyron).md",
     "DND-FozenStick/Player/Bumm (Niklas).md",
     "DND-FozenStick/Npcs/Cobalt Soul/Expositor Sisman Kurtarici.md",
     "2026-05-27.md",
-    "DND-FozenStick/Artefacte/The Shard of Schattengrad.md",
     "DND-FozenStick/Plot Idee.md",
     "DND-FozenStick/Player/Ekmek-Potates/Auftrag (Frozen Stick).md",
     "DND-FozenStick/Player/Ekmek-Potates/Backstory-Nebelfurt.md",
@@ -278,8 +281,6 @@
     "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Empiers/Kryn Dynasty.md",
     "DND-FozenStick/Worlds/Exandria/History/The Calamity/The Post-Divergence (Heute).md",
     "DND-FozenStick/Worlds/Exandria/History/Arcanum Age/The Arcanum Age.md",
-    "DND-FozenStick/Worlds/Exandria/History/The Founding/The Founding.md",
-    "DND-FozenStick/Worlds/Exandria/Continents/Wildmount/Societies/The Righteous Brand.md",
     "improved-initiativeS4.json",
     "session4.drawio"
   ]

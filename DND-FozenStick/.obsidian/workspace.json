@@ -81,12 +81,14 @@
             "id": "8188da1cde75b9ad",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Artefacte/Frostphönix-Träne.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Frostphönix-Träne"
             }
           }
         ],
@@ -110,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -163,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artefacte/Frostphönix-Träne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,48 +258,49 @@
   },
   "active": "8188da1cde75b9ad",
   "lastOpenFiles": [
+    "Maps/SplitterkupelnlaborArena.jpg",
+    "Maps/SplitterKuppelnArena.temporary",
+    "Maps/SplitterKuppelnArena.dungeondraft_map",
+    "Maps/SpliterkuppelnLabor.temporary",
+    "Maps/SplitterkupelnlaborNew.jpg",
+    "Artefacte/The Shard of Schattengrad.md",
+    "Artefacte/Frostphönix-Träne.md",
+    "Artefacte/Annalen der Transzendenz Die Geometrie des Fleischlosen Willens.md",
+    "Artefacte/Crystalline Peacebloom.md",
+    "Npcs/Palbank Village/Milla Tenno.md",
+    "Npcs/Palbank Village/Bari Frost.md",
+    "Npcs/Cobalt Soul/Expositor Sisman Kurtarici.md",
+    "Npcs/Palbank Village",
+    "Npcs/Syrinlya/Morgo Delwur.md",
+    "Npcs/Syrinlya/Elloway Tenvidas (The Buyer).md",
+    "Npcs/The Paradox Weaver.md",
+    "Npcs/Syrinlya",
+    "Npcs/The Tamer.md",
+    "Npcs/Vaelis Nyx (The Umbra).md",
+    "Player/Gimbal.md",
+    "Player/Ekmek (Wyron).md",
+    "Player/Patates (Lucas).md",
+    "Player/Bumm (Niklas).md",
+    "Worlds/Exandria/Continents/Wildmount/History DM.md",
+    "Worlds/Exandria/Pantheon Of Exandria.md",
+    "Worlds/Exandria/History/The Calamity/DM Notes.md",
+    "Worlds/Exandria/History/Arcanum Age/DM Notes.md",
+    "Worlds/Exandria/History/Arcanum Age/The Arcanum Age.md",
+    "Worlds/Exandria/History/The Founding/Founding Exandria DM notes.md",
+    "Worlds/Exandria/Continents/Wildmount/Areas/Greying Wildlands/Races.md",
+    "Worlds/Exandria/Continents/Wildmount/Areas/Greying Wildlands/Greying Wildlands.md",
+    "Player/Ekmek-Potates/Backstory-Nebelfurt.md",
     "improved-initiative.json",
     "improved-initiative (1).json",
     "Maps/ruins_ice.webp",
     "Maps/Map_Ice_Clives.webp",
     "Maps/BluBerrey-2MT Glacier Valley Collaboration (1).zip",
-    "Worlds/Exandria/Continents/Wildmount/History Player.md",
-    "Player/Patates (Lucas).md",
-    "Player/Ekmek (Wyron).md",
-    "Player/Bumm (Niklas).md",
-    "Worlds/Exandria/Continents/Wildmount/Societies/The Myriad.md",
-    "Worlds/Exandria/Continents/Wildmount/Societies/The Gold Grin.md",
-    "Worlds/Exandria/Continents/Wildmount/Societies/Tribes Of Shadycreek Run.md",
-    "Worlds/Exandria/Continents/Wildmount/Societies/The Righteous Brand.md",
-    "Worlds/Exandria/Continents/Wildmount/Societies/The Revelry.md",
-    "Artefacte/The Shard of Schattengrad.md",
-    "ZSessiones/Session 1.md",
-    "ZSessiones/Session 0.md",
     "Maps/snowpath.webp",
     "Maps/SnowTravel.temporary",
     "Maps/SnowPath.webp",
     "Artefacte",
-    "Player/Ekmek-Potates/Auftrag (Frozen Stick).md",
-    "Player/Ekmek-Potates/Backstory-Nebelfurt.md",
-    "Worlds/Exandria/Continents/Wildmount/Societies/Scars of Scale And Tooth.md",
-    "Worlds/Exandria/Continents/Wildmount/Societies/Libary Of Cobalt Soul.md",
-    "Worlds/Exandria/Continents/Wildmount/Societies/Iron Authority.md",
-    "Worlds/Exandria/Continents/Wildmount/Societies/Eyes of the Bright Queen.md",
-    "Worlds/Exandria/Continents/Wildmount/Societies/Claret Orders.md",
-    "Npcs/BBEG.md",
-    "ZSessiones/Links Nice To Have.md",
-    "Worlds/Exandria/Pantheon Of Exandria.md",
-    "Worlds/Exandria/Continents/Wildmount/Areas/Menagerie Coast/Menagerie-Küste.md",
-    "Worlds/Exandria/Continents/Wildmount/Empiers/Clovis Concord.md",
-    "Red.md",
     "session1.drawio.svg",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "ZSessiones/Untitled",
-    "ZSessiones",
-    "Npcs/Cobalt Soul",
-    "Npcs",
-    "Player/Ekmek-Potates",
-    "Player"
+    "Untitled 1.canvas"
   ]
 }

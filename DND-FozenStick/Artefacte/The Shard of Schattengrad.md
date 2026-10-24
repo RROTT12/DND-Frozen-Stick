@@ -57,3 +57,6 @@ _You have mastered the balance between logic and entropy._
 - **Incorruptible Mind:** You gain **advantage on Intelligence saving throws** in addition to your Intelligence ability checks.
     
 - **Grand Tapestry:** Your **Arcane Tap** feature can now cast Wizard spells of **7th level or lower**.
+
+
+The shard is a part of an Promordial either the primordial of Night or the primordial of Order since it balances the Wild magic and channells it the shards of this primordial were widly destryed but this small part ramaind hidden wating for more power

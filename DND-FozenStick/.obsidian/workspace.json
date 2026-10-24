@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Spliterkupeln Labor.md",
+                "file": "Artefacte/The Shard of Schattengrad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spliterkupeln Labor"
+              "title": "The Shard of Schattengrad"
             }
           }
         ],
@@ -272,8 +272,8 @@
   },
   "active": "560d0860696f7547",
   "lastOpenFiles": [
-    "Artefacte/Annalen der Transzendenz Die Geometrie des Fleischlosen Willens.md",
     "Texte/Spliterkupeln Labor.md",
+    "Artefacte/Annalen der Transzendenz Die Geometrie des Fleischlosen Willens.md",
     "Texte",
     "Player/Ekmek (Wyron).md",
     "Player/Gimbal.md",

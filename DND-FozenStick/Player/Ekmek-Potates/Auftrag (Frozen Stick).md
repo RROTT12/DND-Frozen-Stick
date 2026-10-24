@@ -7,11 +7,11 @@ Die Späher der Kobaltseele berichten von Unruhen im hohen Norden. In den Trümm
 
 Euer Ziel ist **Palebank Village** an der frostigen Küste.
 
-Ein Zwerg namens **Urgon Widor** ist vor kurzem von einer Expedition aus dem Eis zurückgekehrt. Meine Informanten flüstern, dass er Artefakte bei sich trug, die nicht aus Stein oder Eisen, sondern aus purem, vergangenem Grauen bestehen. Doch es gibt ein Problem: Urgon ist an einer rätselhaften Krankheit erkrankt, die seinen Körper von innen heraus zu Eis werden lässt.
+Ein Zwerg namens **Urgon Widor** %% Fehler beim Erstellen – richtiger Name: Urgon Wenth %% ist vor kurzem von einer Expedition aus dem Eis zurückgekehrt. Meine Informanten flüstern, dass er Artefakte bei sich trug, die nicht aus Stein oder Eisen, sondern aus purem, vergangenem Grauen bestehen. Doch es gibt ein Problem: Urgon ist an einer rätselhaften Krankheit erkrankt, die seinen Körper von innen heraus zu Eis werden lässt.
 
 **Euer Auftrag:**
 
-1. Reist nach Palebank Village und findet Urgon Widor.
+1. Reist nach Palebank Village und findet Urgon Widor. %% Fehler beim Erstellen – richtiger Name: Urgon Wenth %%
     
 2. Identifiziert die Relikte, die er aus dem Norden gebracht hat. Handelt es sich um Waffen oder Fragmente von Aeor?
     

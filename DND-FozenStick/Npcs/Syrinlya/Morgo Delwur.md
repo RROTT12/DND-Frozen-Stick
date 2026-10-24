@@ -8,10 +8,17 @@ _Zwergenfrau, Werbärin (Neutral Gut)_
     
 - **Funktion für die Gruppe:**
     
-    - **Guide:** Zeigt den Spielern das Lager und führt sie zu **Orvo Mustave** oder zum **Käufer**.
+    - **Guide:** Zeigt den Spielern das Lager und führt sie zu **Orvo Mustav** oder zum **Käufer**.
+        
+    - **Warg-Halterin:** Morgo kümmert sich um die Schnee-Wargs des Lagers. Für die Rettungsmission gibt sie den Spielern Wargs, damit sie schneller zum Splitterkuppeln-Labor kommen.
         
     - **Wissensquelle:** Sie kennt die Details des Lagers und weiß über das **Frostleid (Frigid Woe)** und dessen tödliche Wirkung Bescheid.
         
     - **Urgons Tod:** Sie war keine enge Freundin von Urgon, ist aber sichtlich betrübt über die Nachricht seines Todes – in der kleinen Gemeinschaft von Eiselcross zählt jeder Kopf.
         
 - **Besonderheit:** Da sie eine **Werbärin** ist, verfügt sie über eine natürliche Resistenz gegen die Kälte und physische Angriffe. Sie verwandelt sich nur im Notfall, um den Außenposten zu verteidigen.
+
+---
+## Originaltext (vor Änderung am 2026-10-24)
+
+    - **Guide:** Zeigt den Spielern das Lager und führt sie zu **Orvo Mustave** oder zum **Käufer**.

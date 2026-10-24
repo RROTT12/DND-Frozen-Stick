@@ -13,4 +13,9 @@ Ein raues, schneebedecktes Land im hohen Norden, weit weg von den Gesetzen der K
     
 - **Gefährliche Beute:** Du weißt, dass in den Ruinen von Molaesmyr unermessliche Schätze liegen, aber fast niemand, der versucht hat, sie zu bergen, ist je zurückgekehrt – oder er kam "verändert" wieder.
     
+- **Shadycreek Run:** Du weißt, dass dieser Ort der Abschaum des Nordens ist. Dort regieren die vier kriminellen Familien (Mardoon, Uttolot, Trebain und Jagentoth), und wer keine Kontakte hat, wird dort schneller ausgeraubt, als er "Hallo" sagen kann.
+
+---
+## Originaltext (vor Änderung am 2026-10-24)
+
 - **Shadycreek Run:** Du weißt, dass dieser Ort der Abschaum des Nordens ist. Dort regieren die sieben kriminellen Clans, und wer keine Kontakte hat, wird dort schneller ausgeraubt, als er "Hallo" sagen kann.

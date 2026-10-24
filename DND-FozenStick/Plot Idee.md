@@ -112,7 +112,7 @@ The Buyer steps aside, revealing the broken Manastone ring on the central map ta
     
 - **Arcana / Investigation Check (DC 13):** If a player examines it, they learn that the magic connecting it to its twin ring (worn by the Dwarf) is hanging by a literal thread. The red pulse is essentially a magical "flatline" warning. If they roll high (16+), they can actually feel a faint directional pull from the ring—it wants to reconnect with its twin.
     
-- **The Briefing:** Morgo explains the timeline. _"A massive distress flare went up from a newly uncovered Aeorian dome 18 hours ago. Everyone went. Nobody came back. We sent Mila, Orvo, and your Dwarf to pull them out. Now... this ring is doing _this_. We are completely blind."_
+- **The Briefing:** Morgo explains the timeline. _"Ten days ago, almost everyone went out to secure the newly uncovered Aeorian dome. Their report never came. We sent Mila, Orvo, and your Dwarf to pull them out. Now... this ring is doing _this_. We are completely blind."_
     
 
 ### Beat 4: The Desperate Request & Outfitting
@@ -122,3 +122,10 @@ The Buyer looks at the party. _"You are the only veterans left. If anyone is sti
 - **The Snow-Wargs:** He leads them outside to four heavily muscled, thick-coated Snow-Wargs. They are terrifying but tamed. **Animal Handling Check (DC 12):** Ask the players to roll to see how well they bond with their mount. A success means the Warg is fiercely loyal; a failure means the Warg occasionally nips at their boots or groans, adding some fun roleplay flavor. The Wargs will cut the travel time down to mere hours.
     
 - **The Comms:** Morgo presses a _Sending Stone_ (or a flare gun) into the party leader's hand. _"The moment you know what happened, use this. And take the broken ring—let it guide you to the Dwarf."_ By breaking it down like this, your players get a satisfying conclusion to their Frigid Woe quest, a chance to use their skills to examine the clues, and a fun new toy (the Wargs) before they head back out into the cold.
+
+---
+## Originaltext (vor Änderung am 2026-10-24)
+
+- **Die Verzweiflung:** _"Das geht jetzt schon seit 18 Stunden so,"_ sagt Morgo leise. _"Etwas hat die Expedition in Stücke gerissen. Wir wussten, wir können niemanden mehr schicken, bevor ihr nicht da seid."_
+
+- **The Briefing:** Morgo explains the timeline. _"A massive distress flare went up from a newly uncovered Aeorian dome 18 hours ago. Everyone went. Nobody came back. We sent Mila, Orvo, and your Dwarf to pull them out. Now... this ring is doing _this_. We are completely blind."_

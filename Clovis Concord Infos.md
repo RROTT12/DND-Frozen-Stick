@@ -1,6 +1,6 @@
 ## Menagerie Coast
 
-Die Menagerie-Küste ist eine feucht-warme, tropische Region am Lucidianischen Ozean, geprägt von dichten Dschungeln, felsigen Klippen und rauen Stränden. Regiert wird dieses weltoffene Land von der **Clovis Concord**, einem politischen und wirtschaftlichen Bündnis aus sieben stolzen Stadtstaaten, zu denen Metropolen wie Port Damali und Nicodranas gehören. In ganz Exandria ist die Küste berühmt für ihren pulsierenden Seehandel, extravagante Kunst, Theater und exzellentes Essen. Das Leben hier ist laut, bunt und zieht Glücksritter aus aller Welt an.
+Die Menagerie-Küste ist eine feucht-warme, tropische Region am Lucidianischen Ozean, geprägt von dichten Dschungeln, felsigen Klippen und rauen Stränden. Regiert wird dieses weltoffene Land von der **Clovis Concord**, einem politischen und wirtschaftlichen Bündnis aus acht stolzen Stadtstaaten, zu denen Metropolen wie Port Damali und Nicodranas gehören. In ganz Exandria ist die Küste berühmt für ihren pulsierenden Seehandel, extravagante Kunst, Theater und exzellentes Essen. Das Leben hier ist laut, bunt und zieht Glücksritter aus aller Welt an.
 
 Doch wo extrem viel Reichtum fließt, blühen auch Laster und illegale Geschäfte. Auf dem offenen Meer und rund um die wilden, verstreuten Swavain-Inseln machen die Piraten der **Revelry** unerbittlich Jagd auf Handelsschiffe. In den schummrigen Hafenkneipen der Städte hält sich zudem hartnäckig das Gerücht, dass das berüchtigte Verbrechersyndikat der **Myriad** – entgegen aller offiziellen Behauptungen der Politiker – niemals wirklich zerschlagen wurde und im Verborgenen noch immer heimlich die Fäden zieht.
 
@@ -34,4 +34,11 @@ Port Zoon liegt zwischen Feolinn und Nicodranas und ist das unangefochtene Indus
 
 Tussoa begann einst als bescheidenes Süßwasser-Fischerdorf der indigenen **Ki'Nau** am Ufer des **Tyodan River**. Trotz ihres Wachstums hat sich die Grenzstadt einen entspannten, ländlichen Charme bewahrt, der im starken Kontrast zu den hektischen Küstenmetropolen steht. Während das Zentrum modern und geschäftig ist, bestehen die äußeren Viertel noch immer aus einfachen Hütten aus Schilf und Stroh. Die Menschen hier schätzen ein einfaches Leben, müssen sich aber täglich gegen die ungebändigte Wildnis behaupten.
 
+## Brokenbank
 
+TODO: Beschreibung fehlt noch (8. Stadt des Clovis Concord).
+
+---
+## Originaltext (vor Änderung am 2026-10-24)
+
+Die Menagerie-Küste ist eine feucht-warme, tropische Region am Lucidianischen Ozean, geprägt von dichten Dschungeln, felsigen Klippen und rauen Stränden. Regiert wird dieses weltoffene Land von der **Clovis Concord**, einem politischen und wirtschaftlichen Bündnis aus sieben stolzen Stadtstaaten, zu denen Metropolen wie Port Damali und Nicodranas gehören. In ganz Exandria ist die Küste berühmt für ihren pulsierenden Seehandel, extravagante Kunst, Theater und exzellentes Essen. Das Leben hier ist laut, bunt und zieht Glücksritter aus aller Welt an.

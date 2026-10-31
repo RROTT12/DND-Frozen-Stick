@@ -129,3 +129,11 @@ The Buyer looks at the party. _"You are the only veterans left. If anyone is sti
 - **Die Verzweiflung:** _"Das geht jetzt schon seit 18 Stunden so,"_ sagt Morgo leise. _"Etwas hat die Expedition in Stücke gerissen. Wir wussten, wir können niemanden mehr schicken, bevor ihr nicht da seid."_
 
 - **The Briefing:** Morgo explains the timeline. _"A massive distress flare went up from a newly uncovered Aeorian dome 18 hours ago. Everyone went. Nobody came back. We sent Mila, Orvo, and your Dwarf to pull them out. Now... this ring is doing _this_. We are completely blind."_
+
+
+17
+15
+15
+15
+10
+9

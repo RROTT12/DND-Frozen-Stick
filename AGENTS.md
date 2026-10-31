@@ -22,7 +22,8 @@ Also:
 - New content (ideas, drafts, NPCs, encounters) goes in the chat first. It only becomes a file after approval.
 - Do not touch `.obsidian/` config, `.$*.drawio.bkp` or `.~lock.*` files. They belong to Obsidian, draw.io and LibreOffice.
 - Keep player-facing text and DM-only secrets separate. Many topics have both a `DM Notes` and a `Player Notes` file.
-- **Log every approved change** in section 12 ("Agent changelog") at the end of this file: date, file, what changed and why, newest first. Read the changelog at the start of each session to pick up recent context.
+- **Log every approved change** in section 13 ("Agent changelog") at the end of this file: date, file, what changed and why, newest first. Read the changelog at the start of each session to pick up recent context.
+- **Log ideas discussed in chat** that have not become files in section 12 ("Planning log"), so later agents have the context.
 
 ---
 
@@ -170,10 +171,23 @@ These are settled. Treat them as canon:
 
 ---
 
-## 12. Agent changelog
+## 12. Planning log (discussed, not yet in files)
+
+Ideas and drafts the DM discussed with agents in chat that have not become files yet. Read this at the start of each session together with the changelog. Newest first. When an idea becomes a file, add "→ file: …" to its entry. Format:
+`YYYY-MM-DD – topic – status – what was discussed / decided / still open`
+
+- 2026-10-27 – **Aeorischer Resonanz-Kern** (Gimbal) – Common stage written → file: `DND-FozenStick/Artefacte/Aeorischer Resonanz-Kern.md` – Final Common: +2 STR or DEX (mode switch at a long rest, max 20) + one **core slot** per long rest: either a known core elixir or a normal Experimental Elixir roll. Start recipes: **Gravity Vial** (#3) and **Orbit Elixir** (#14). Parked: #6 stasis serum, #8 resonance tincture. Evolution path drafted (Uncommon → Very Rare; Legendary reserved). **Still open:** lore of the gravity Primordial (name ideas: Vharun, Orrhaxis); the DM wants to think about it. Earlier discussion below. – Confirmed for Gimbal (alchemist artificer). It currently powers his prosthetic arm. It's an evolving item, like the Peacebloom and the Shard (base state + evolution path). **It has no burden or drawback (DM decision).** Base state: +2 STR or DEX (agent idea: switchable mode at a long rest, max 20). Agent's ideas for the alchemist bonus: A) roll elixirs twice and pick, B) throw an elixir to an ally 30 ft away as a bonus action, C) stasis vial (an elixir survives the long rest; time link), D) gravity push on alchemical damage, E) blood analysis (Medicine/Investigation advantage, Lesser Restoration), F) maximise an elixir 1×/long rest. Agent recommended A or B for Common and C for later. **DM has not chosen yet.** Lore: indirectly tied to the Primordials (not relevant yet). The handover concept in section 9 (weight negation, gravity discharge) may become a later stage.
+
+---
+
+## 13. Agent changelog
 
 Newest entries first. One entry per approved change. Format:
 `YYYY-MM-DD – file – what changed – why / decided by the DM`
+
+- 2026-10-27 – `DND-FozenStick/Artefacte/Aeorischer Resonanz-Kern (Handout).md` – created: player handout for Gimbal, Common stage only (no evolution path, no DM notes) – approved by the DM
+- 2026-10-27 – `DND-FozenStick/Artefacte/Aeorischer Resonanz-Kern.md` – created: Gimbal's evolving artifact (mass calibration, core slot, Gravity Vial, Orbit Elixir, evolution path); planning log entry updated – approved by the DM
+- 2026-10-27 – `AGENTS.md` – added section 12 "Planning log" for chat discussions (first entry: Resonanz-Kern); the changelog is now section 13; new rule in section 1 – requested by the DM
 
 - 2026-10-24 – `AGENTS.md` – recorded the DM's decisions on inconsistencies 1–15 (section 10), updated the NPC and story sections – approved by the DM (P1)
 - 2026-10-24 – `Elloway Tenvidas (The Buyer).md` – Buyer is he/him: removed "nicht-binär", "sie/ihn" → "ihn", "Er/Sie" → "Er" (lines 3, 9, 26, 28); originals at the end of the file – approved (P8)
